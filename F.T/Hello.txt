@@ -1,0 +1,26 @@
+Functional models describe the external behavioral view (user＊s view) of the business system.
+Structural models represent the objects and the relationship among them 每 static structure of the business system.
+Behavioral models represent how the underlying objects in a problem domain collaborate together to support the use cases.
+
+
+1. Three functional models (Functional models represent system＊s behavior)
+	Business process identification 每 Use case diagram 
+		Identify main business processes 每 use cases 
+		Identify who performs these processes 每 users/actors
+		Combine use cases with their actors in a diagram
+
+	Business process modeling 每 Activity diagram
+		Model how business processes (activities) work in the system
+		Model movement of objects (data) across activities
+
+	Business process documentation 每 Use case description (optional)
+		Document use cases in details
+
+2. Structural models (Structural models represent classes and their relationships within a system)
+	Discover the key data contained in the problem domain and to build a structural model of the objects - Class diagrams
+
+3. Behavior models (Focus is on the dynamic view of the system, not on how it is implemented)
+	Illustrates the sequence of messages exchanged between objects in a use-case - Sequence diagrams 
+
+Verifying and Validating Analysis Models
+		
