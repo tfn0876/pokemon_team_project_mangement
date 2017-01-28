@@ -1,0 +1,21 @@
+
+Project Intent Statement Notes
+Date: 01/28/2016
+Hardik Parikh
+
+Need to keep track of courses ; Allow user to CRUD courses
+Need to keep track of faculties/teachers/professors
+Need to associate courses with Semester
+Need to associate courses with teachers/professors
+Single user system & faculty should be able to login
+Need to keep track of the students;Allow user to CRUD students
+Need to associate students with the courses
+User should be able to mark attendance of the students on weekly basis
+User should be able to add comments when marking attendance
+User should be allowed to specify if the grade is score or a letter prior to adding grades for particular student
+User of the system should be able to create different grade items such as midterm , assignment etc for a class.
+For the score grade, system should calculate the score percentage
+For the letter grade ,user should be able to  assign corresponding score grade & equivalent score from the letter grade should appear automatically
+Need to provide Final Grade Button which should calculate/re-calculate the final grade in case the grade of any student has been changed
+When student id is referenced , system should pull the student information automatically and should present to the user
+
